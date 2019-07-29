@@ -1,0 +1,28 @@
+.card {
+    background: #fff;
+    border-radius: 10px;
+    height: 150px;
+    margin: 16px;
+    width: 150px;
+    text-align: left;
+    
+  }
+  
+  .card > .img-container {
+    text-align: center;
+    
+  }
+  
+  
+  .card > .content {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  
+  .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  .card > .content > ul > li {
+    margin-top: 18px;
+  }
